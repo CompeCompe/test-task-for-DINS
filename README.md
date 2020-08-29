@@ -3,7 +3,7 @@
  <h1> Создание БД </br></h1>
  </br>
 Перед запуском необходимо создать БД в MySql Workbench (или любым другим, удобным для вас способом)</br>
-Для удобства создадим новое MySql connection с такими параментрами </br>
+Для удобства создадим новое MySql connection с такими параметрами </br>
 
 ![image](https://user-images.githubusercontent.com/62572691/91644133-e42ab780-ea41-11ea-9649-0b30a1e4ca33.png) </br>
 
