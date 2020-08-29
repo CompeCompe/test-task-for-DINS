@@ -4,8 +4,11 @@
  </br>
 Перед запуском необходимо создать БД в MySql Workbench (или любым другим, удобным для вас способом)</br>
 Для удобства создадим новое MySql connection с такими параментрами </br>
-![image](https://user-images.githubusercontent.com/62572691/91643564-0f5ed800-ea3d-11ea-8a88-8d6f88e1fa0b.png)</br>
+
+![image](https://user-images.githubusercontent.com/62572691/91644133-e42ab780-ea41-11ea-9649-0b30a1e4ca33.png) </br>
+
 Пароль должен совпадать с именем пользователя (root)</br>
+
 Если на вашей локальной машине стоит другой пароль для root, то можете воcпользоваться командой</br>
 SET PASSWORD = PASSWORD("root");</br>
 
